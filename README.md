@@ -18,7 +18,7 @@ Click the image below to watch the demo:
 - [Product Service](https://github.com/geedotrar/ags-microservices/blob/main/backend/microservices/product-service/README.md)
 
 # Front-end Docs
-- [Front-end-README](https://github.com/geedotrar/ags-microservices/blob/main/frontend/README.md)
+- [Front-end](https://github.com/geedotrar/ags-microservices/blob/main/frontend/README.md)
 
 # Postman Collection 
 - [Postman-collection](https://drive.google.com/file/d/1almBAbtN6uWitbLW5eypSiVg9RWgBOke/view?usp=sharing)
