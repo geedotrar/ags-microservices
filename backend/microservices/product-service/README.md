@@ -68,6 +68,6 @@ This is a microservice built with Go that handles product management. It support
    ```
 5. **Start the service**
    ```
-   go run main.go
+   go run cmd/main.go
    ```
 
