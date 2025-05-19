@@ -27,8 +27,8 @@ This is the frontend application for the Laravel-based Auth Service. It is built
 - HTTP Client : Axios
 - Routing : React Router DOM
 - Styling : Tailwind CSS
-- Auth Method : JWT (from Laravel backend)
-
+- Auth Method : JWT (Laravel)
+- Product Method : Product Service (Gin Go)
 
 ## 🚀 Setup
 1. **Navigate to the Frontend directory**
