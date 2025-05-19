@@ -1,5 +1,3 @@
-# Catalog System
-
 # Diagram Systems
 ![ags-microservices drawio](https://github.com/user-attachments/assets/03e0d256-a168-4225-a034-31beec71ae53)
 
