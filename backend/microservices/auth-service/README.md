@@ -24,14 +24,15 @@ This is a microservice built with Laravel that handles user authentication and a
    ```
    cp .env.example .env
    ```
-3. **Generate JWT Secret**
-   ```
-   php artisan jwt:secret
-   ```
-4. **Install Dependencies**
+3. **Install Dependencies**
    ```
    composer install
    ```
+4. **Generate JWT Secret**
+   ```
+   php artisan jwt:secret
+   ```
+
 5. **Run database migrations**
    ```
    php artisan migrate
