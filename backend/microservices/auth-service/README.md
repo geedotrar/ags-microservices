@@ -18,7 +18,7 @@ This is a microservice built with Laravel that handles user authentication and a
 ## 🚀 Setup
 1. **Navigate to the Auth Service directory**
    ```
-   cd backend/microservices/auth-service  
+   cd ags-microservices/backend/microservices/auth-service  
    ```
 2. **Copy the environment configuration file bash**
    ```
