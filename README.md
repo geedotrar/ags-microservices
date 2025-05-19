@@ -14,14 +14,12 @@ Click the image below to watch the demo:
 | Front-end          | 3000 — localhost:3000     | localhost:3000              |
 
 # Back-end Docs
-## Auth Service
-### https://github.com/geedotrar/ags-microservices/blob/main/backend/microservices/auth-service/README.md
-
-## Product Service
-### https://github.com/geedotrar/ags-microservices/blob/main/backend/microservices/product-service/README.md
+- [Auth Service](https://github.com/geedotrar/ags-microservices/blob/main/backend/microservices/auth-service/README.md)
+- [Product Service](https://github.com/geedotrar/ags-microservices/blob/main/backend/microservices/product-service/README.md)
 
 # Front-end Docs
-### https://github.com/geedotrar/ags-microservices/blob/main/frontend/README.md
+- [Front-end-README](https://github.com/geedotrar/ags-microservices/blob/main/frontend/README.md)
 
-## Postman Collection 
-### https://drive.google.com/file/d/1almBAbtN6uWitbLW5eypSiVg9RWgBOke/view?usp=sharing
+# Postman Collection 
+- [Postman-collection](https://drive.google.com/file/d/1almBAbtN6uWitbLW5eypSiVg9RWgBOke/view?usp=sharing)
+
