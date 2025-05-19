@@ -33,7 +33,7 @@ This is the frontend application for the Laravel-based Auth Service. It is built
 ## 🚀 Setup
 1. **Navigate to the Frontend directory**
    ```
-    cd frontend
+    cd ags-microservices/frontend
    ```
 2. **Install dependencies**
    ```
