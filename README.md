@@ -23,6 +23,5 @@ Click the image below to watch the demo:
 # Front-end Docs
 ### https://github.com/geedotrar/ags-microservices/blob/main/frontend/README.md
 
-
-
-
+## Postman Collection 
+### https://drive.google.com/file/d/1almBAbtN6uWitbLW5eypSiVg9RWgBOke/view?usp=sharing
