@@ -23,7 +23,7 @@ This is a microservice built with Go that handles product management. It support
 ## 🚀 Setup
 1. **Navigate to the Product Service directory**
    ```
-    cd product-service
+   cd ags-microservices/backend/microservices/product-service
    ```
 2. **Copy the example environment file**
    ```
