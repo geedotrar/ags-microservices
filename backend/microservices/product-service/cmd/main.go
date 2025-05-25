@@ -23,6 +23,11 @@ func server() {
 		log.Fatalf("Error loading .env file: %v", err)
 	}
 
+	redisClient := config.InitRedis()
+	if redisClient == nil {
+		log.Fatal("Failed to connect to Redis")
+	}
+
 	g := gin.Default()
 	g.Use(gin.Recovery())
 

@@ -51,7 +51,7 @@ func (h *productHandlerImpl) GetAllProducts(c *gin.Context) {
 		return
 	}
 
-	log.Printf("User permissions: %v", claims.Permissions)
+	// log.Printf("User permissions: %v", claims.Permissions)
 
 	pageStr := c.DefaultQuery("page", "1")
 	search := c.DefaultQuery("search", "")
